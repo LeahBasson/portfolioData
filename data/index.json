@@ -56,25 +56,25 @@
     },
     {
         "id": 4,
-        "skillName":"Adobe Photoshop: ",
+        "skillName":"Adobe Photoshop : ",
         "level":"Advanced",
         "description": "Photoshop is used by editors to crop photos, correct lighting, create collages, layer images together and lots more. I have created logos, digital artwork and advertisements using photoshop."
     },
     {
         "id": 5,
-        "skillName":"Figma: ",
+        "skillName":"Figma : ",
         "level":"Advanced",
         "description": "Figma is easy to navigate. I can comfortably use it like a pro."
     },
     {
         "id": 6,
-        "skillName":"Javascript: ",
+        "skillName":"Javascript : ",
         "level":"Beginner",
         "description": "I understand basic concepts in Javascript like  variables, data types, functions, and control structures (loops, conditionals).I have basic skills in manipulating HTML and CSS using JavaScript."
     },
     {
         "id": 7,
-        "skillName":"VueJs: ",
+        "skillName":"VueJs : ",
         "level":"Beginner",
         "description": "I have an understanding of core concepts such as directives and data binding.I know how to create and manage Vue components. I know how to manage events and communicate between components using props. I have basic knowledge of using Vue CLI for project setup and development."
     }
