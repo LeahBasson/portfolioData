@@ -107,7 +107,7 @@
         },
         {
             "id": 4,
-            "projectName":"bmi Calculator",
+            "projectName":"BMI Calculator",
             "description":"The BMI Calulator is a tool to help you find out if you're a healthy weight for your height.",
             "img_url":"https://leahbasson.github.io/MyImages/images/bmiCalculator.png",
             "gitHub":"https://github.com/LeahBasson/bmiCalculator.git",
