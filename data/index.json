@@ -82,19 +82,19 @@
         },
         {
             "id": 3,
-            "projectName":"Cinema Logo",
-            "description":"Logo for Cinema Website called Movie Block that I made last year at College Of Cape Town using Visual Studio.",
-            "img_url": "https://leahbasson.github.io/MyImages/images/MovieLogo.png",
-            "gitHub":"https://github.com/LeahBasson/cinemaLogo.git",
-            "vercel":"https://cinema-logo.vercel.app"
+            "projectName":"Calculator",
+            "description":"I was assigned a task to make a calculator using css, html and javascript.",
+            "img_url": "https://leahbasson.github.io/MyImages/images/Calculator.png",
+            "gitHub":"https://github.com/LeahBasson/Calculator.git",
+            "vercel":"https://calculator-gold-chi.vercel.app"
         },
         {
             "id": 4,
-            "projectName":"Sun Eco Travel Logo",
-            "description":"Logo for a travelling website.",
-            "img_url":"https://leahbasson.github.io/MyImages/images/sun-eco-travel-logo.png",
-            "gitHub":"https://github.com/LeahBasson/sunEcoLogo.git",
-            "vercel":"https://sun-eco-logo.vercel.app"
+            "projectName":"bmi Calculator",
+            "description":"The BMI Calulator is a tool to help you find out if you're a healthy weight for your height.",
+            "img_url":"https://leahbasson.github.io/MyImages/images/bmiCalculator.png",
+            "gitHub":"https://github.com/LeahBasson/bmiCalculator.git",
+            "vercel":"https://bmi-calculator-alpha-lac.vercel.app"
         },
         {
             "id": 5,
@@ -106,11 +106,11 @@
         },
         {
             "id": 6,
-            "projectName":"Boy and sand",
-            "description":"Playing around with text in Adobe Photoshop.",
-            "img_url":"https://leahbasson.github.io/MyImages/images/boyAndSand.png",
-            "gitHub":"https://github.com/LeahBasson/boyAndSand.git",
-            "vercel":"https://boy-and-sand.vercel.app"
+            "projectName":"Temperature Converter",
+            "description":"A Temperature Converter to convert Celsius to Fahrenheit",
+            "img_url":"https://leahbasson.github.io/MyImages/images/tempConverter.png",
+            "gitHub":"https://github.com/LeahBasson/tempConverter.git",
+            "vercel":"https://temp-converter-dun.vercel.app"
         },
         {
             "id": 7,
@@ -130,19 +130,19 @@
         },
         {
             "id": 9,
-            "projectName":"Golden Grills Advert",
-            "description":"I designed an advert for my brother's market day.",
-            "img_url":"https://leahbasson.github.io/MyImages/images/tAdvert.png",
-            "gitHub":"https://github.com/LeahBasson/tAdvert.git",
-            "vercel":"https://t-advert.vercel.app"
+            "projectName":"Forever Gems Logo",
+            "description":"Logo for a jewellery website that I designed called Forever Gems.",
+            "img_url":"https://leahbasson.github.io/MyImages/images/ForeverGemsLogo.png",
+            "gitHub":"https://github.com/LeahBasson/foreverGemsLogo.git",
+            "vercel":"https://forever-gems-logo.vercel.app"
         },
         {
             "id": 10,
-            "projectName":"Calculator",
-            "description":"I was assigned a task to make a calculator using only css and html , no javascript.",
-            "img_url":"https://leahbasson.github.io/MyImages/images/Calculator.png",
-            "gitHub":"https://github.com/LeahBasson/Calculator.git",
-            "vercel":"https://calculator-gold-chi.vercel.app"
+            "projectName":"Forever Gems Website",
+            "description":"I designed a jewelry website called 'Forever Gems'. The platform focuses primarily on women’s products, while also offering a selection of men’s items.",
+            "img_url":"https://leahbasson.github.io/MyImages/images/foreverGemsWebsite.png",
+            "gitHub":"https://github.com/LeahBasson/foreverGems.git",
+            "vercel":"https://forever-gems.vercel.app"
         }
     ],
    
