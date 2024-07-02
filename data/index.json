@@ -88,7 +88,8 @@
             "img_url": "https://leahbasson.github.io/MyImages/images/Island.png",
             "gitHub":"https://github.com/LeahBasson/islandArtwork.git",
             "vercel": "https://island-artwork.vercel.app",
-            "mobileImage": "https://leahbasson.github.io/MyImages/images/IslandMobile2.png"
+            "mobileImage": "https://leahbasson.github.io/MyImages/images/IslandMobile2.png",
+            "category":"Digital Artwork"
         },
         {
             "id": 2,
@@ -97,7 +98,8 @@
             "img_url":"https://leahbasson.github.io/MyImages/images/HomeDecorLogo2.png",
             "gitHub":"https://github.com/LeahBasson/homeDecor.git",
             "vercel":"https://home-decor-neon.vercel.app",
-            "mobileImage": "https://leahbasson.github.io/MyImages/images/HomeDecorLogo2.png"
+            "mobileImage": "https://leahbasson.github.io/MyImages/images/HomeDecorLogo2.png",
+            "category":"Logo"
         },
         {
             "id": 3,
@@ -106,7 +108,8 @@
             "img_url": "https://leahbasson.github.io/MyImages/images/Calculator2.png",
             "gitHub":"https://github.com/LeahBasson/Calculator.git",
             "vercel":"https://calculator-gold-chi.vercel.app",
-            "mobileImage": "https://leahbasson.github.io/MyImages/images/CalculatorMobile.png"
+            "mobileImage": "https://leahbasson.github.io/MyImages/images/CalculatorMobile.png",
+            "category":"Mini Project"
         },
         {
             "id": 4,
@@ -115,7 +118,8 @@
             "img_url":"https://leahbasson.github.io/MyImages/images/bmiCalculator.png",
             "gitHub":"https://github.com/LeahBasson/bmiCalculator.git",
             "vercel":"https://bmi-calculator-alpha-lac.vercel.app",
-            "mobileImage": "https://leahbasson.github.io/MyImages/images/bmiCalculatorMobile.png"
+            "mobileImage": "https://leahbasson.github.io/MyImages/images/bmiCalculatorMobile.png",
+            "category": "Mini Project"
         },
         {
             "id": 5,
@@ -124,7 +128,8 @@
             "img_url": "https://leahbasson.github.io/MyImages/images/Aqua.png",
             "gitHub":"https://github.com/LeahBasson/aqua.git",
             "vercel":"https://aqua-black.vercel.app",
-            "mobileImage": "https://leahbasson.github.io/MyImages/images/AquaMobile.png"
+            "mobileImage": "https://leahbasson.github.io/MyImages/images/AquaMobile.png",
+            "category":"Digital Artwork"
         },
         {
             "id": 6,
@@ -133,7 +138,8 @@
             "img_url":"https://leahbasson.github.io/MyImages/images/tempConverter.png",
             "gitHub":"https://github.com/LeahBasson/tempConverter.git",
             "vercel":"https://temp-converter-dun.vercel.app",
-            "mobileImage": "https://leahbasson.github.io/MyImages/images/tempConverterMobile.png"
+            "mobileImage": "https://leahbasson.github.io/MyImages/images/tempConverterMobile.png",
+            "category":"Mini Project"
         },
         {
             "id": 7,
@@ -142,7 +148,8 @@
             "img_url":"https://leahbasson.github.io/MyImages/images/easter.png",
             "gitHub":"https://github.com/LeahBasson/easter.git",
             "vercel":"https://easter-jet.vercel.app",
-            "mobileImage": "https://leahbasson.github.io/MyImages/images/IslandMobile2.png"
+            "mobileImage": "https://leahbasson.github.io/MyImages/images/IslandMobile2.png",
+            "category":"Digital Artwork"
         },
         {
             "id": 8,
@@ -151,7 +158,8 @@
             "img_url":"https://leahbasson.github.io/MyImages/images/logo for task.jpg",
             "gitHub":"https://github.com/LeahBasson/takealot.git",
             "vercel":"https://takealot-coral.vercel.app",
-            "mobileImage": "https://leahbasson.github.io/MyImages/images/IslandMobile2.png"
+            "mobileImage": "https://leahbasson.github.io/MyImages/images/IslandMobile2.png",
+            "category": "Logo"
         },
         {
             "id": 9,
@@ -160,7 +168,8 @@
             "img_url":"https://leahbasson.github.io/MyImages/images/FGLogo2.png",
             "gitHub":"https://github.com/LeahBasson/foreverGemsLogo.git",
             "vercel":"https://forever-gems-logo.vercel.app",
-            "mobileImage": "https://leahbasson.github.io/MyImages/images/IslandMobile2.png"
+            "mobileImage": "https://leahbasson.github.io/MyImages/images/IslandMobile2.png",
+            "category":"Logo"
         },
         {
             "id": 10,
@@ -169,7 +178,8 @@
             "img_url":"https://leahbasson.github.io/MyImages/images/foreverGemsWebsite.png",
             "gitHub":"https://github.com/LeahBasson/foreverGems.git",
             "vercel":"https://forever-gems.vercel.app",
-            "mobileImage": "https://leahbasson.github.io/MyImages/images/IslandMobile2.png"
+            "mobileImage": "https://leahbasson.github.io/MyImages/images/IslandMobile2.png",
+            "category":"Website"
         }
     ], 
    
