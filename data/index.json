@@ -185,26 +185,31 @@
    
     "testimonials":[{
         "id": 1,
+        "img_url": "https://leahbasson.github.io/MyImages/images/Jamin.png",
         "testimonial":"Leah is a remarkably hardworking individual. Her dedication to her tasks is truly unparalleled. She approaches every project with a level of enthusiasm and commitment that is both inspiring and infectious. In the time I have known her, she has consistently demonstrated an exceptional work ethic and determination. Leah's hard work, dedication, and positive attitude are qualities that anyone would admire. AND I THINK SHE IS THEE MOST BEAUTIFUL.",
         "Name": "Jamin Langeveldt"
     } ,
     {
         "id": 2,
+        "img_url": "https://leahbasson.github.io/MyImages/images/joel5.png",
         "testimonial":"Leah Basson is a highly creative, well-behaved, and dedicated individual who thrives on collaborating with her peers and excels at working on project assignments. She has acquired various skills and tools, including HTML5, CSS3, Bootstrap, VS Code, and wireframe. I am pleased to introduce her as an exceptional candidate and developer.",
         "Name":"Joel Mukanya"
     } , 
     {
         "id": 3,
+        "img_url": "https://leahbasson.github.io/MyImages/images/Katelin.png",
         "testimonial":"I have always found Leah to be knowledgable and hardworking. She has a keen eye for design and willing to put in the time to make things perfect. She has a can do, will do, action-orientated manner which will bring benefit to anyone she works with.",
         "Name":"Katelin Bock"
     } , 
     {
         "id": 4,
+        "img_url": "https://leahbasson.github.io/MyImages/images/Tarryn.png",
         "testimonial":"Leah has always been someone that could adapt to the learning pace, always coming up with new ideas and thriving in wanting to know more.",
         "Name":"Tarryn Arendse"
     },
     {
         "id": 5,
+        "img_url": "https://leahbasson.github.io/MyImages/images/Zoe.png",
         "testimonial":"Leah Basson has a great talent for development. She always has great ideas and suggestions, her work is always done to the best of her ability.",
         "Name": "Zoë Saaiers"
     }
