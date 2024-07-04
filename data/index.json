@@ -190,16 +190,16 @@
         "Name": "Jamin Langeveldt"
     } ,
     {
-        "id": 2,
-        "img_url": "https://leahbasson.github.io/MyImages/images/joel5.png",
-        "testimonial":"Leah Basson is a highly creative, well-behaved, and dedicated individual who thrives on collaborating with her peers and excels at working on project assignments. She has acquired various skills and tools, including HTML5, CSS3, Bootstrap, VS Code, and wireframe. I am pleased to introduce her as an exceptional candidate and developer.",
-        "Name":"Joel Mukanya"
-    } , 
-    {
         "id": 3,
         "img_url": "https://leahbasson.github.io/MyImages/images/Katelin.png",
         "testimonial":"I have always found Leah to be knowledgable and hardworking. She has a keen eye for design and willing to put in the time to make things perfect. She has a can do, will do, action-orientated manner which will bring benefit to anyone she works with.",
         "Name":"Katelin Bock"
+    } , 
+    {
+        "id": 2,
+        "img_url": "https://leahbasson.github.io/MyImages/images/joel5.png",
+        "testimonial":"Leah Basson is a highly creative, well-behaved, and dedicated individual who thrives on collaborating with her peers and excels at working on project assignments. She has acquired various skills and tools, including HTML5, CSS3, Bootstrap, VS Code, and wireframe. I am pleased to introduce her as an exceptional candidate and developer.",
+        "Name":"Joel Mukanya"
     } , 
     {
         "id": 4,
@@ -208,26 +208,16 @@
         "Name":"Tarryn Arendse"
     },
     {
-        "id": 5,
-        "img_url": "https://leahbasson.github.io/MyImages/images/Zoe.png",
-        "testimonial":"Leah Basson has a great talent for development. She always has great ideas and suggestions, her work is always done to the best of her ability.",
-        "Name": "Zoë Saaiers"
-    },
-    {
         "id": 6,
         "img_url": "https://leahbasson.github.io/MyImages/images/PortBalc3.jpg",
         "testimonial":"Leah is a hardworking and diligent individual who is always ready to work, learn new things and achieve higher results. An ambitious and focused individual, but can also be cheerful and friendly when need be.",
         "Name": "Keenan Timmie"
+    },
+    {
+        "id": 5,
+        "img_url": "https://leahbasson.github.io/MyImages/images/Zoe.png",
+        "testimonial":"Leah Basson has a great talent for development. She always has great ideas and suggestions, her work is always done to the best of her ability.",
+        "Name": "Zoë Saaiers"
     }
-    ],
-
-    "reachMe": [
-        {
-            "id": 1,
-            "address": "South Africa , Cape Town",
-            "homeAddress": "Address: Ottery , 7800",
-            "cellphoneNumber": "Phone number: +27 66 243 1477",
-            "email": "Email: leahbasson57@gmail.com"
-        }
     ]
 }
