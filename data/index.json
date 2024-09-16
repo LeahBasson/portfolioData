@@ -87,7 +87,7 @@
             "description":"I designed a jewelry website called 'Forever Gems'. The platform focuses primarily on women’s products, while also offering a selection of men’s items.",
             "img_url":"https://leahbasson.github.io/MyImages/images/foreverGemsWebsite.png",
             "gitHub":"https://github.com/LeahBasson/foreverGems.git",
-            "vercel":"https://forever-gems.vercel.app",
+            "hostedLink":"https://forever-gems.vercel.app",
             "category":"Website"
         },
         {
@@ -96,7 +96,7 @@
             "description":"For my final project at Life Choices I was assigned a project to build a responsive full-stack application and integrate all the skills that I have learned thus far. Those skills are database, API (application programming interface) using Express JS, and Vue JS. I made a booking system for hotels.",
             "img_url":"https://leahbasson.github.io/MyImages/images/sunEcoTravel.png",
             "gitHub":"https://github.com/LeahBasson/sunEcoTravel.git",
-            "firebase":"https://capstone-project-a7027.web.app/",
+            "hostedLink":"https://capstone-project-a7027.web.app/",
             "category":"Website"
         },
         {
@@ -105,7 +105,7 @@
             "description":"This is an e-commerce project that sells skincare products. It was group project and we implemented this using VUE 3 JS, Express JS, and MySQL database",
             "img_url":"https://leahbasson.github.io/MyImages/images/skinOasis.png",
             "gitHub":"https://github.com/LeahBasson/vueSkincareDemo.git",
-            "firebase":"https://fullstack-project-6e1ec.web.app/",
+            "hostedLink":"https://fullstack-project-6e1ec.web.app/",
             "category":"Website"
         },
         {
@@ -114,7 +114,7 @@
             "description":"I designed a logo for the girl code hackathon solution. It was an educational website.",
             "img_url":"https://leahbasson.github.io/MyImages/competitionProject/finalElevateEd.png",
             "gitHub":"https://github.com/LeahBasson/elevatEDLogo.git",
-            "vercel":"https://elevat-ed-logo.vercel.app/",
+            "hostedLink":"https://elevat-ed-logo.vercel.app/",
             "category": "Logo"
         },
         {
@@ -123,7 +123,7 @@
             "description":"Island with dragons from How To Train A Dragon Movie with night background.",
             "img_url": "https://leahbasson.github.io/MyImages/images/Island.png",
             "gitHub":"https://github.com/LeahBasson/islandArtwork.git",
-            "vercel": "https://island-artwork.vercel.app",
+            "hostedLink": "https://island-artwork.vercel.app",
             "category":"Digital Artwork"
         },
         {
@@ -132,7 +132,7 @@
             "description":"The BMI Calulator is a tool to help you find out if you're a healthy weight for your height.",
             "img_url":"https://leahbasson.github.io/MyImages/images/bmiCalculator.png",
             "gitHub":"https://github.com/LeahBasson/bmiCalculator.git",
-            "vercel":"https://bmi-calculator-alpha-lac.vercel.app",
+            "hostedLink":"https://bmi-calculator-alpha-lac.vercel.app",
             "category": "Mini Project"
         },
         {
@@ -141,7 +141,7 @@
             "description": "Text Effect with liquid.",
             "img_url": "https://leahbasson.github.io/MyImages/images/Aqua.png",
             "gitHub":"https://github.com/LeahBasson/aqua.git",
-            "vercel":"https://aqua-black.vercel.app",
+            "hostedLink":"https://aqua-black.vercel.app",
             "category":"Digital Artwork"
         },
         {
@@ -150,7 +150,7 @@
             "description":"A Temperature Converter to convert Celsius to Fahrenheit",
             "img_url":"https://leahbasson.github.io/MyImages/images/tempConverter.png",
             "gitHub":"https://github.com/LeahBasson/tempConverter.git",
-            "vercel":"https://temp-converter-dun.vercel.app",
+            "hostedLink":"https://temp-converter-dun.vercel.app",
             "category":"Mini Project"
         },
         {
@@ -159,7 +159,7 @@
             "description":"This was made in Adobe Photoshop.",
             "img_url":"https://leahbasson.github.io/MyImages/images/easter.png",
             "gitHub":"https://github.com/LeahBasson/easter.git",
-            "vercel":"https://easter-jet.vercel.app",
+            "hostedLink":"https://easter-jet.vercel.app",
             "category":"Digital Artwork"
         },
         {
@@ -168,7 +168,7 @@
             "description":"Logo for Home Decor website called Serene Decor. The slogan is 'mi Casa su Casa' which means my home is your home.",
             "img_url":"https://leahbasson.github.io/MyImages/images/HomeDecorLogo2.png",
             "gitHub":"https://github.com/LeahBasson/homeDecor.git",
-            "vercel":"https://home-decor-neon.vercel.app",
+            "hostedLink":"https://home-decor-neon.vercel.app",
             "category":"Logo"
         },
         {
@@ -177,7 +177,7 @@
             "description":"Logo for skincare website.",
             "img_url":"https://leahbasson.github.io/MyImages/skincareWebsite/skincareLogo1.png",
             "gitHub":"https://github.com/LeahBasson/skinCareLogo.git",
-            "vercel":"https://skin-care-logo.vercel.app/",
+            "hostedLink":"https://skin-care-logo.vercel.app/",
             "category":"Logo"
         },
         {
@@ -186,7 +186,7 @@
             "description":"I was assigned a task to make a calculator using css, html and javascript.",
             "img_url": "https://leahbasson.github.io/MyImages/images/Calculator2.png",
             "gitHub":"https://github.com/LeahBasson/Calculator.git",
-            "vercel":"https://calculator-gold-chi.vercel.app",
+            "hostedLink":"https://calculator-gold-chi.vercel.app",
             "category":"Mini Project"
         }
     ], 
