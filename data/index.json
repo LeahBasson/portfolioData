@@ -8,20 +8,20 @@
     ],
 
     "resume":[
-        { 
+        {
             "id": 1,
-            "certificate": "Bachelor’s Pass: Matric",
-            "place": "Alexander Sinton High School - Athlone, Cape Town, 2022"
+            "certificate": "Currently Studying at Life Choices Coding Academy",
+            "place": "Lansdowne, Cape Town, 2024"
         },
         {
             "id": 2,
             "certificate": "Certificate of Higher Education: Microsoft IT Academy",
             "place": "College Of Cape Town - Cape Town South Africa, 2023"
         },
-        {
+        { 
             "id": 3,
-            "certificate": "Currently Studying at Life Choices Coding Academy",
-            "place": "Lansdowne, Cape Town, 2024"
+            "certificate": "Bachelor’s Pass: Matric",
+            "place": "Alexander Sinton High School - Athlone, Cape Town, 2022"
         }
     ],
 
