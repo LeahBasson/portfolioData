@@ -10,16 +10,21 @@
     "resume":[
         {
             "id": 1,
-            "certificate": "Currently Studying at Life Choices Coding Academy",
+            "certificate": "Currently an intern at LC Studio",
             "place": "Lansdowne, Cape Town, 2024"
         },
         {
             "id": 2,
+            "certificate": "Completed course at Life Choices Coding Academy",
+            "place": "Lansdowne, Cape Town, 2024"
+        },
+        {
+            "id": 3,
             "certificate": "Certificate of Higher Education: Microsoft IT Academy",
             "place": "College Of Cape Town - Cape Town South Africa, 2023"
         },
         { 
-            "id": 3,
+            "id": 4,
             "certificate": "Bachelor’s Pass: Matric",
             "place": "Alexander Sinton High School - Athlone, Cape Town, 2022"
         }
@@ -102,7 +107,7 @@
         {
             "id": 3,
             "projectName":"Skin Oasis",
-            "description":"This is an e-commerce project that sells skincare products. It was group project and we implemented this using VUE 3 JS, Express JS, and MySQL database",
+            "description":"This is an e-commerce project that sells skincare products. It was a group project and we implemented this using VUE 3 JS, Express JS, and MySQL database",
             "img_url":"https://leahbasson.github.io/MyImages/images/skinOasis.png",
             "gitHub":"https://github.com/LeahBasson/vueSkincareDemo.git",
             "hostedLink":"https://fullstack-project-6e1ec.web.app/",
