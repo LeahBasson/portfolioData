@@ -131,6 +131,19 @@
         }
     ],
 
+    "badges": [
+        {
+            "id":1,
+            "bagde":"https://leahbasson.github.io/MyImages/images/OSBBadge.png",
+            "certificate":"https://leahbasson.github.io/MyImages/images/OSBCertificate.png"
+        },
+        {
+            "id":2,
+            "bagde":"https://leahbasson.github.io/MyImages/images/linuxBadge.png",
+            "certificate":"https://leahbasson.github.io/MyImages/images/LinuxUnhatchedCertificate.png"
+        }
+    ],
+
     "skills":[
     {
         "id": 1,
