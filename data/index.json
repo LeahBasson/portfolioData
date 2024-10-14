@@ -173,6 +173,12 @@
         "skillName":"VueJs : ",
         "level":"Beginner",
         "description": "I have an understanding of core concepts such as directives and data binding.I know how to create and manage Vue components. I know how to manage events and communicate between components using props. I have basic knowledge of using Vue CLI for project setup and development."
+    },
+    {
+        "id":8,
+        "skillName":"NodeJS : ",
+        "level":"Beginner",
+        "description":"I have a basic understanding of core concepts such as how Node.js works as a JavaScript runtime on the server. I know how to use modules to organize and structure code, including using both built-in modules like fs and http and third-party modules installed via NPM.I can create and manage a basic HTTP server using Node.js, handle simple routing for different requests, and work with asynchronous functions using callbacks, promises, and async/await.I have a foundational knowledge of using Node Package Manager (NPM) for managing dependencies and setting up basic Node.js projects. I can manage environment variables and have an introductory understanding of Express.js for building web applications and APIs."
     }
     ],
 
