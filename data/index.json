@@ -320,20 +320,6 @@
             "gitHub":"https://github.com/LeahBasson/Calculator.git",
             "hostedLink":"https://calculator-gold-chi.vercel.app",
             "category":"Mini Project"
-        },
-        {
-            "id": 13,
-            "projectName":"UI/UX Hackathon",
-            "img_url":"https://leahbasson.github.io/MyImages/images/UiAndUx.png",
-            "figmaLink":"https://www.figma.com/design/af66kJaNWt2W0h7w2vOfEx/UI%2F-UX-Hackathon?node-id=24-3&t=N4vkPoxC9TYRXdCN-1",
-            "docLink":"https://drive.google.com/file/d/1iH1U8b_F3dTOvqKMYS-7_-QWxPLfR8OV/view?usp=sharing"
-        },
-        {
-            "id": 14,
-            "projectName":"SCRUM Hackathon",
-            "img_url":"https://leahbasson.github.io/MyImages/images/SCRUM.png",
-            "figmaLink":"https://www.figma.com/design/vDNfpT8xZOZaHdczLk1Uc6/ZoomEats?node-id=0-1&t=DlBrTPxhL50xdyLl-1",
-            "docLink":"https://drive.google.com/file/d/1IAt0CRcraNJ-fOiYbsFCHaUr1uoM6u2D/view?usp=sharing"
         }
     ], 
    
