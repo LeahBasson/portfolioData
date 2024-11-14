@@ -158,6 +158,18 @@
             "bagde":"https://leahbasson.github.io/MyImages/images/linuxBadge.png",
             "certificate":"https://leahbasson.github.io/MyImages/images/LinuxUnhatchedCertificate.png",
             "title":"Linux Unhatched"
+        },
+        {
+            "id":3,
+            "bagde":"https://leahbasson.github.io/MyImages/images/UIUX.png",
+            "docLink":"https://drive.google.com/file/d/1iH1U8b_F3dTOvqKMYS-7_-QWxPLfR8OV/view?usp=sharing",
+            "title":"UI/UX Hackathon Case Study"
+        },
+        {
+            "id":4,
+            "bagde":"https://leahbasson.github.io/MyImages/images/SCRUM.png",
+            "docLink":"https://drive.google.com/file/d/1IAt0CRcraNJ-fOiYbsFCHaUr1uoM6u2D/view?usp=sharing",
+            "title":"SCRUM Hackathon Case Study"
         }
     ],
 
