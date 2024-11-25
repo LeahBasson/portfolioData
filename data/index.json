@@ -55,6 +55,11 @@
             "id": 3,
             "img_url":"https://leahbasson.github.io/MyImages/images/GirlCodeLogo.png",
             "title":"Girl Code"
+        },
+        {
+            "id": 4,
+            "img_url":"https://leahbasson.github.io/MyImages/images/COCT.png",
+            "title":"College of Cape Town"
         }
     ],
 
